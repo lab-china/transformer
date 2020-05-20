@@ -22,7 +22,7 @@ from __future__ import print_function
 import copy
 import tensorflow as tf
 
-from official.nlp.modeling import networks
+from modeling import networks
 
 
 @tf.keras.utils.register_keras_serializable(package='Text')

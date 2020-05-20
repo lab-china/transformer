@@ -23,7 +23,7 @@ import numpy as np
 import tensorflow as tf
 
 from tensorflow.python.keras import keras_parameterized  # pylint: disable=g-direct-tensorflow-import
-from official.nlp.modeling import networks
+from modeling import networks
 from modeling.losses import weighted_sparse_categorical_crossentropy
 
 

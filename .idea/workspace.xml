@@ -1,17 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9383f8b-217d-4f0e-a533-efadf4f22a73" name="Default Changelist" comment="" />
+    <list default="true" id="e9383f8b-217d-4f0e-a533-efadf4f22a73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/attention_layer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modeling/losses/weighted_sparse_categorical_crossentropy_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/losses/weighted_sparse_categorical_crossentropy_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modeling/models/bert_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/models/bert_classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modeling/models/bert_classifier_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/models/bert_classifier_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modeling/models/bert_pretrainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/models/bert_pretrainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modeling/models/bert_pretrainer_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/models/bert_pretrainer_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modeling/models/bert_span_labeler.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/models/bert_span_labeler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modeling/models/bert_span_labeler_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/models/bert_span_labeler_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modeling/networks/albert_transformer_encoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/networks/albert_transformer_encoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modeling/networks/encoder_scaffold.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/networks/encoder_scaffold.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modeling/networks/encoder_scaffold_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/networks/encoder_scaffold_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modeling/networks/transformer_encoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/networks/transformer_encoder.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1c9dJ1w3Vtt9k3xKnKthjbFWnoi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\02_AIPJ\01_SRC\0000_transform" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,5 +61,16 @@
       <updated>1589944667905</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

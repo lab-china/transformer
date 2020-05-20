@@ -26,7 +26,7 @@ import gin
 import tensorflow as tf
 
 from tensorflow.python.keras.engine import network  # pylint: disable=g-direct-tensorflow-import
-from official.nlp.modeling import layers
+from modeling import layers
 
 
 @tf.keras.utils.register_keras_serializable(package='Text')

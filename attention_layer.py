@@ -21,7 +21,7 @@ from __future__ import print_function
 import math
 
 import tensorflow as tf
-from official.nlp.modeling import layers
+from modeling import layers
 
 
 class Attention(tf.keras.layers.Layer):

@@ -24,7 +24,7 @@ import tensorflow as tf
 
 from tensorflow.python.keras import keras_parameterized  # pylint: disable=g-direct-tensorflow-import
 from official.modeling import activations
-from official.nlp.modeling import layers
+from modeling import layers
 from modeling.networks import encoder_scaffold
 
 
